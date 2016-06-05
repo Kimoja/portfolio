@@ -1,0 +1,28 @@
+{
+  "name": "static",
+  "authors": [
+    "Kimoja <carrilho_joakim@yahoo.fr>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": ">=1.3.0",
+    "bootstrap": "^3.3.6",
+    "font-awesome": "^4.6.3",
+    "font-awesome-animation": "^0.0.9",
+    "elusive-icons": "*",
+    "magnific-popup": "^1.1.0",
+    "animate.css": "^3.5.1",
+    "wow": "^1.1.2",
+    "protonet/jquery.inview": "^1.1.2"
+  }
+}

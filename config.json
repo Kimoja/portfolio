@@ -1,0 +1,22 @@
+{
+    "base"  : "http://localhost/modulo.io/site2/",
+    "env" : "dev",
+    "recaptchaPublicKey" : "6LeStyETAAAAAMfOPvlwIBvufluspa7y_RC5gv41",
+    "recaptchaPrivateKey" : "6LeStyETAAAAAHsOuSnOwiN6xR5rlJrg1HSXQoHQ",
+    "css" : [
+        "bower_components/bootstrap/dist/css/bootstrap.min.css",
+        "bower_components/font-awesome/css/font-awesome.min.css",
+        "bower_components/font-awesome-animation/dist/font-awesome-animation.min.css",
+        "bower_components/elusive-icons/css/elusive-icons.min.css",
+        "bower_components/magnific-popup/dist/magnific-popup.css",
+        "bower_components/animate.css/animate.min.css",
+        "static/css/bootstrap-theme.min.css"
+    ],
+    "js" : [
+        "bower_components/jquery/dist/jquery.min.js",
+        "bower_components/bootstrap/dist/js/bootstrap.min.js",
+        "bower_components/wow/dist/wow.min.js",
+        "bower_components/protonet/jquery.inview/jquery.inview.min.js",
+        "bower_components/magnific-popup/dist/jquery.magnific-popup.min.js"
+    ]
+}
